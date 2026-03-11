@@ -4,9 +4,9 @@ import { GraduationCap, Award, Book } from 'lucide-react';
 
 const education = [
   {
-    title: "RNCP NIVEAU 6 CONCEPTEUR INFORMATIQUES (admissible)",
-    school: "GNAM Grand-Est",
-    period: "2025 - 2026",
+    title: "Manager en Ingénierie Informatique (M2I)",
+    school: "CCI Campus Strasbourg",
+    period: "2026 - 2028",
     description: "Maîtrise des concepts avancés de programmation et de gestion de projet",
     icon: GraduationCap
   },
